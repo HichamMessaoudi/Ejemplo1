@@ -7,7 +7,7 @@ package ejer1;
  */
 public class Ejer1 {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         System.out.println("HOLA");
         System.out.println("Adios");
     }
