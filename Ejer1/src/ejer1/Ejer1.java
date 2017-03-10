@@ -1,6 +1,4 @@
-
 package ejer1;
-
 
 /**
  * @author hicham
@@ -11,5 +9,5 @@ public class Ejer1 {
         System.out.println("HOLA");
         System.out.println("Adios");
     }
-    
+
 }
